@@ -49,6 +49,9 @@ class LoadingViewController: UIViewController {
             
             UIView.animate(withDuration: 0.25) {
                 self.view.alpha = 0.4
+                
+                
+                
             }
         }
     }
